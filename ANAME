@@ -4,3 +4,8 @@ $ dig www.perfilprofesionalsis.com +nostats +nocomments +nocmd
     > www.perfilprofesionalsis.com.             3592    IN      CNAME   IsaacCaceres.github.io.
     > IsaacCaceres.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
     > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+$ dig EXAMPLE.COM +noall +answer -t A
+> EXAMPLE.COM    3600    IN A     185.199.108.153
+> EXAMPLE.COM    3600    IN A     185.199.109.153
+> EXAMPLE.COM    3600    IN A     185.199.110.153
+> EXAMPLE.COM    3600    IN A     185.199.111.153
