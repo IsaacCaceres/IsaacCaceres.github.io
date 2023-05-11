@@ -1,6 +1,1 @@
-IsaacCaceres.github.io
-$ dig www.perfilprofesionalsis.com +nostats +nocomments +nocmd
-    > ;www.perfilprofesionalsis.com.                    IN      A
-    > www.perfilprofesionalsis.com.             3592    IN      CNAME   IsaacCaceres.github.io.
-    > IsaacCaceres.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
-    > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+www.perfilprofesionalsis.com
